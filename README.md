@@ -6,7 +6,7 @@ Second Project repository for MATH 261A.
 
 ## Data
 
-Data used in this project is obtained from [Fannie Mae](https://multifamily.fanniemae.com/financing-options/green-financing/2023-multifamily-energy-water-survey) who provide the data under the [Fannie Mae Data License](https://www.fanniemae.com/about-us/legal-disclosure).
+Data used in this project is obtained from [Fannie Mae](https://multifamily.fanniemae.com/financing-options/green-financing/2023-multifamily-energy-water-survey) who provides the data under the [Fannie Mae Data License](https://www.fanniemae.com/about-us/legal-disclosure).
 
 ## Structure
 
